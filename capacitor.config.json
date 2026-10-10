@@ -1,0 +1,6 @@
+{
+  "appId": "com.school.contest",
+  "appName": "منصة المسابقة المدرسية",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
